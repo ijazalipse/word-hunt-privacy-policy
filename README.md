@@ -2,7 +2,7 @@
 
 **Effective Date:** November 3, 2026  
 **App Name:** Word Hunt  
-**Developer:** [Your Developer / Company Name]
+**Developer:** Ijaz Ali
 
 ## 1. Introduction
 
@@ -145,6 +145,6 @@ Any updates will be published on this page with a revised effective date.
 
 If you have questions about this Privacy Policy or Word Hunt's privacy practices, contact us:
 
-**Developer:** [Your Developer / Company Name]  
-**Email:** [Your Support Email Address]  
+**Developer:** Ijaz Ali
+**Email:** ijaz.ali.se@gmail.com
 **App Name:** Word Hunt
